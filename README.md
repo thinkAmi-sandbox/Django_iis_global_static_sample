@@ -1,0 +1,1 @@
+# Django_iis_global_static_sample
